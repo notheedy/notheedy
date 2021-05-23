@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notheedy
+- 👋 Hi, I’m Timur
 - 👀 I’m interested in Python/Django projects
 - 🌱 I’m currently learning Django
 - 📫 How to reach me t.me/notheedy
